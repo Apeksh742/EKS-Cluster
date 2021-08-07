@@ -3,4 +3,4 @@ Launching Wordpress with MYSQL on K8s using AWS EKS Service. Amazon Elastic Kube
 
 ## Usage and Full Guide:
 
-Wanna know how i developed this project, then head over to my blog for full walkthrough from [here 👆](https://aws.amazon.com/eks/)
+Wanna know how i developed this project, then head over to my blog for full walkthrough from [here 👆](https://apeksh742.medium.com/aws-eks-service-for-deploying-wordpress-mysql-659841cce3b5)
